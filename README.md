@@ -31,6 +31,7 @@ When run without an argument it operates as a <abbr title="read-eval-print loop"
 ## Testing
 Tests were taken from Robert Nystroms Tetsing repo to test his lox interpreter.
 Not all tests were ran due to running into the deadline but various tests were ran and checked for correctness. 
+An additional update I would have liked to make would enable to ability to run all tests at once in a testing suite.
 
 
 # ChatGPT
