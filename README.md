@@ -1,5 +1,5 @@
 # CS403_C-Lox
-This Lox interpreter is a C implementation based on the bytecode interpreter in the book [*Crafting Interpreters* by Robert Nystrom](https://craftinginterpreters.com/). 
+This Lox interpreter is a C implementation based on the bytecode interpreter in the book from chapters 14-24 [*Crafting Interpreters* by Robert Nystrom](https://craftinginterpreters.com/). 
 
 ## Development
 Indivdual programs were ran while building to check that the code works
